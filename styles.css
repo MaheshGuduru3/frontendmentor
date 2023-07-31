@@ -979,6 +979,14 @@ a:hover{
 }
 
 @media (max-width:770px) {
+     .huddleimg1{
+      width:98%;
+      min-height: 0vh;
+   }
+   .huddleimg2{
+    width: 98%;
+    min-height: 0rem;
+}
    .box_inside1_container{
       gap: 1.5rem;
    }
